@@ -148,6 +148,15 @@ body {
     margin-bottom: 15px;
     color: var(--color-text);
     font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.title-icon {
+    width: 20px;
+    height: 20px;
+    color: var(--color-primary);
 }
 
 .btn-quick {
@@ -372,7 +381,7 @@ body {
     margin-bottom: 30px;
 }
 
-.section-number {
+.section-icon {
     background: var(--color-primary);
     color: white;
     width: 50px;
@@ -380,12 +389,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.5rem;
-    font-weight: 700;
-    font-family: var(--font-mono);
     border-radius: 12px;
     flex-shrink: 0;
     box-shadow: var(--shadow-sm);
+}
+
+.section-icon svg {
+    width: 24px;
+    height: 24px;
 }
 
 .section-header h2 {
