@@ -7,6 +7,7 @@ Nowoczesny, profesjonalny generator faktur VAT dla polskich firm. Twórz piękne
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b881c881-9277-4b02-ab08-39328f62210e/deploy-status)](https://app.netlify.com/projects/generator-fv/deploys)
 
 ## ✨ Funkcje
 
