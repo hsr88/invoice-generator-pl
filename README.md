@@ -51,11 +51,12 @@ Nowoczesny, profesjonalny generator faktur VAT dla polskich firm. Twórz piękne
 
 ## 🚀 Demo
 
-[Live Demo](https://hsr88.github.io/invoice-generator-pl) *(Zaktualizuj link po wdrożeniu)*
+[Live Demo](https://generator-fv.netlify.app/) 
 
 ## 📸 Zrzuty Ekranu
 
-*Dodaj zrzuty ekranu aplikacji tutaj*
+<img width="341" height="884" alt="Zrzut ekranu 2025-11-30 002402" src="https://github.com/user-attachments/assets/8cde72fd-8cc4-4688-9b8c-53f468989e5c" />
+
 
 ## 🛠️ Instalacja
 
