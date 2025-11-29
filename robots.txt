@@ -1,0 +1,9 @@
+# robots.txt for Invoice Generator PL
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://generator-fv.netlify.app/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
